@@ -1,0 +1,8 @@
+prefix=/home/hmt-user/baskaran_ws/install
+
+Name: baskaran_runtime_monitoring
+Description: Description of baskaran_runtime_monitoring
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

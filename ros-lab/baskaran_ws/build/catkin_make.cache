@@ -1,0 +1,2 @@
+baskaran_runtime_monitoring:beginner_tutorials:vesc/vesc:vesc/vesc_ackermann:vesc/vesc_driver:vesc/vesc_msgs
+-DCATKIN_DEVEL_PREFIX=/home/hmt-user/baskaran_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hmt-user/baskaran_ws/install -G Unix Makefiles
